@@ -30,7 +30,7 @@ namespace PréCadastroUsuário
             Console.WriteLine("\n");
 
             Console.WriteLine("Informe o seu gênero. Pressione F para feminino, M para masculino, ou O para outros");
-            string Gender = Console.ReadKey().KeyChar.ToString();
+            string Gender = Console.ReadKey(true).KeyChar.ToString();
             Console.WriteLine("\n");
 
             Console.WriteLine("Olá " + Name);
