@@ -1,0 +1,6 @@
+C:\Users\joyce.silveira\source\repos\PréCadastroUsuário\PréCadastroUsuário\bin\Debug\PréCadastroUsuário.exe.config
+C:\Users\joyce.silveira\source\repos\PréCadastroUsuário\PréCadastroUsuário\bin\Debug\PréCadastroUsuário.exe
+C:\Users\joyce.silveira\source\repos\PréCadastroUsuário\PréCadastroUsuário\bin\Debug\PréCadastroUsuário.pdb
+C:\Users\joyce.silveira\source\repos\PréCadastroUsuário\PréCadastroUsuário\obj\Debug\PréCadastroUsuário.csproj.CoreCompileInputs.cache
+C:\Users\joyce.silveira\source\repos\PréCadastroUsuário\PréCadastroUsuário\obj\Debug\PréCadastroUsuário.exe
+C:\Users\joyce.silveira\source\repos\PréCadastroUsuário\PréCadastroUsuário\obj\Debug\PréCadastroUsuário.pdb
